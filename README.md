@@ -7,6 +7,7 @@ git clone <repo>
 
 ## Step 2: set up the venv
 ```bash
+cd ClarityAI-backend
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
